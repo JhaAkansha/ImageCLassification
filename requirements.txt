@@ -1,0 +1,5 @@
+keras == 2.15.0
+tensorflow == 2.15.0
+pillow == 9.4.0
+fastAPI[all]
+uvicorn[standard]
